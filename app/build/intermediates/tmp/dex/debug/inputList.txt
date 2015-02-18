@@ -1,0 +1,7 @@
+C:\Users\Admin\AndroidStudioProjects\SpeedTrackerApplication\app\build\intermediates\classes\debug
+C:\Users\Admin\AndroidStudioProjects\SpeedTrackerApplication\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-23f0ab16eb7f93a0efbffb4368371447bba569d9.jar
+C:\Users\Admin\AndroidStudioProjects\SpeedTrackerApplication\app\build\intermediates\pre-dexed\debug\classes-80f4a412484712f49bb18f193e58bac92e75709b.jar
+C:\Users\Admin\AndroidStudioProjects\SpeedTrackerApplication\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c317c91eca55d1d85bee058ef169f7b1c23421d8.jar
+C:\Users\Admin\AndroidStudioProjects\SpeedTrackerApplication\app\build\intermediates\pre-dexed\debug\classes-024fa329647e9e5a6e808ef057c51a8742a3c925.jar
+C:\Users\Admin\AndroidStudioProjects\SpeedTrackerApplication\app\build\intermediates\pre-dexed\debug\classes-e085109c983290fed9acc98b30d063961dd0af8c.jar
+C:\Users\Admin\AndroidStudioProjects\SpeedTrackerApplication\app\build\intermediates\pre-dexed\debug\classes-9c279b08d62e8d9f4a3fc6a9f469779f18d6decf.jar

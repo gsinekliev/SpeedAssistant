@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+	    android:id="@+id/add_crap"
+	    android:icon="@drawable/add_item"
+	    android:title="@string/add_element"
+	    android:background="#292929"
+	    app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/delete_selected"
+        android:icon="@drawable/del_item"
+        android:title="@string/del_selected"
+        app:showAsAction="ifRoom"
+        android:visible="false"/>
+</menu>

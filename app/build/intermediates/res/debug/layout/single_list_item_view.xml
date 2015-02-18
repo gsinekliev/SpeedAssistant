@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222222"
+    android:orientation="vertical">
+    <TextView
+	    android:id="@+id/item_text"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="#222222"
+	    android:textColor="#37FDFC"
+	    android:textSize="25sp">
+    </TextView>
+    <Button
+	    android:id="@+id/button_id"
+	    android:layout_height="wrap_content"
+	    android:layout_width="150dp"
+	 	android:gravity="center"
+	    android:text="@string/self_destruct"
+	    android:onClick="addCrap" />
+    <TextView
+        android:id="@+id/list_placeholder"
+        android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:background="#222222"
+	    android:textColor="#cccccc"
+	    android:textSize="25sp"
+	    android:visibility="visible">"
+    </TextView>
+    <ListView 
+        android:id="@+id/editable_list"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:visibility="gone">
+    </ListView>
+
+
+</LinearLayout><!-- From: file:/C:/Users/Admin/AndroidStudioProjects/SpeedTrackerApplication/app/src/main/res/layout/single_list_item_view.xml -->
